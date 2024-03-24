@@ -1,4 +1,4 @@
-# PF12RED
+# PF12RED DOI: https://zenodo.org/badge/DOI/10.5281/zenodo.10864238.svg
 #In this repository you can find:
 #1. Readme.MD 
 #2. License
